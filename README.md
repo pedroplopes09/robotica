@@ -1,3 +1,3 @@
 
 # robotica
-Programação para *campeonato* nacional de robótica
+Programação para **campeonato** nacional de robótica
